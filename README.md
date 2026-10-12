@@ -57,4 +57,4 @@ full.
 ## License
 
 The letter and its source are licensed under CC BY 4.0, and the build script is also available under the MIT
-License; see [RIGHTS.md](RIGHTS.md) and [LICENSE](LICENSE). This is version 1.0.0 ([doi:10.5281/zenodo.23323809](https://doi.org/10.5281/zenodo.23323809)) of the Zenodo record [doi:10.5281/zenodo.23323808](https://doi.org/10.5281/zenodo.23323808); that concept DOI always resolves to the latest version, and is the one to cite. [CITATION.cff](CITATION.cff) provides machine-readable citation metadata.
+License; see [RIGHTS.md](RIGHTS.md) and [LICENSE](LICENSE). This is version 1.1.0 of the Zenodo record [doi:10.5281/zenodo.23323808](https://doi.org/10.5281/zenodo.23323808); that concept DOI always resolves to the latest version, and is the one to cite. Version 1.0.0 is [doi:10.5281/zenodo.23323809](https://doi.org/10.5281/zenodo.23323809). [CITATION.cff](CITATION.cff) provides machine-readable citation metadata.
