@@ -2,6 +2,8 @@
 
 Seth Douglas and Nidhal Mghirbi — October 2026.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23323808.svg)](https://doi.org/10.5281/zenodo.23323808)
+
 [Read the letter](paper/main.pdf) · [TeX source](paper/main.tex)
 
 Landauer's principle prices erasure, and finite-time thermodynamics prices speed, a cost that patience removes.
@@ -55,4 +57,4 @@ full.
 ## License
 
 The letter and its source are licensed under CC BY 4.0, and the build script is also available under the MIT
-License; see [RIGHTS.md](RIGHTS.md) and [LICENSE](LICENSE). [CITATION.cff](CITATION.cff) provides machine-readable citation metadata.
+License; see [RIGHTS.md](RIGHTS.md) and [LICENSE](LICENSE). This is version 1.0.0 ([doi:10.5281/zenodo.23323809](https://doi.org/10.5281/zenodo.23323809)) of the Zenodo record [doi:10.5281/zenodo.23323808](https://doi.org/10.5281/zenodo.23323808); that concept DOI always resolves to the latest version, and is the one to cite. [CITATION.cff](CITATION.cff) provides machine-readable citation metadata.

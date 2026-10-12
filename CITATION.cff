@@ -10,6 +10,14 @@ authors:
     given-names: Seth
   - family-names: Mghirbi
     given-names: Nidhal
+doi: 10.5281/zenodo.23323808
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23323808
+    description: "Concept DOI: all versions, resolves to the latest"
+  - type: doi
+    value: 10.5281/zenodo.23323809
+    description: "Version 1.0.0"
 url: "https://github.com/Apsiape/order-not-speed"
 repository-code: "https://github.com/Apsiape/order-not-speed"
 references:
@@ -58,4 +66,5 @@ preferred-citation:
     - family-names: Mghirbi
       given-names: Nidhal
   year: 2026
+  doi: 10.5281/zenodo.23323808
   notes: "Letter summarizing the four companion papers listed under references."
