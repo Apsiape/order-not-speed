@@ -18,6 +18,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23323809
     description: "Version 1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.23325747
+    description: "Version 1.1.0"
 url: "https://github.com/Apsiape/order-not-speed"
 repository-code: "https://github.com/Apsiape/order-not-speed"
 references:
