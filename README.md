@@ -36,8 +36,8 @@ The letter summarizes four papers, which give the full proofs and carry the mach
 | The work cost of answering in real time | [10.5281/zenodo.23310628](https://doi.org/10.5281/zenodo.23310628) | [Apsiape/answering-in-real-time](https://github.com/Apsiape/answering-in-real-time) |
 | The price of keeping time | [10.5281/zenodo.23310632](https://doi.org/10.5281/zenodo.23310632) | [Apsiape/price-of-keeping-time](https://github.com/Apsiape/price-of-keeping-time) |
 
-The letter cites version 1.0.2 of each paper by its version DOI (10.5281/zenodo.23323043 to 23323046); the concept
-DOIs above always resolve to the latest version. The papers are the authority for exact statements and hypotheses.
+The letter cites version 1.0.2 of the first three papers by their version DOIs (10.5281/zenodo.23323043 to 23323045)
+and version 1.1.0 of The price of keeping time (10.5281/zenodo.23325723); the concept DOIs above always resolve to the latest version. The papers are the authority for exact statements and hypotheses.
 
 ## Build
 
