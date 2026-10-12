@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "Please cite the letter; this repository supplies its source."
+type: software
+title: "Order, not speed: the work price of letting go"
+version: 1.0.0
+license: CC-BY-4.0
+date-released: 2026-10-12
+authors:
+  - family-names: Douglas
+    given-names: Seth
+  - family-names: Mghirbi
+    given-names: Nidhal
+url: "https://github.com/Apsiape/order-not-speed"
+repository-code: "https://github.com/Apsiape/order-not-speed"
+references:
+  - type: generic
+    title: "The price of time order"
+    doi: 10.5281/zenodo.23310622
+    authors:
+      - family-names: Douglas
+        given-names: Seth
+      - family-names: Mghirbi
+        given-names: Nidhal
+    year: 2026
+  - type: generic
+    title: "Only quantum channels save work by waiting"
+    doi: 10.5281/zenodo.23310624
+    authors:
+      - family-names: Douglas
+        given-names: Seth
+      - family-names: Mghirbi
+        given-names: Nidhal
+    year: 2026
+  - type: generic
+    title: "The work cost of answering in real time"
+    doi: 10.5281/zenodo.23310628
+    authors:
+      - family-names: Douglas
+        given-names: Seth
+      - family-names: Mghirbi
+        given-names: Nidhal
+    year: 2026
+  - type: generic
+    title: "The price of keeping time"
+    doi: 10.5281/zenodo.23310632
+    authors:
+      - family-names: Douglas
+        given-names: Seth
+      - family-names: Mghirbi
+        given-names: Nidhal
+    year: 2026
+preferred-citation:
+  type: generic
+  title: "Order, not speed: the work price of letting go"
+  authors:
+    - family-names: Douglas
+      given-names: Seth
+    - family-names: Mghirbi
+      given-names: Nidhal
+  year: 2026
+  notes: "Letter summarizing the four companion papers listed under references."

@@ -1,0 +1,53 @@
+{
+  "title": "Order, not speed: the work price of letting go",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Douglas, Seth"
+    },
+    {
+      "name": "Mghirbi, Nidhal"
+    }
+  ],
+  "description": "<p>Landauer's principle prices forgetting, and finite-time thermodynamics prices speed, a cost that patience removes. Neither prices order: a machine that computes in time must let some outputs go before later inputs arrive, and can then no longer use them to clean up. This letter shows that order has its own work price, which no patience removes, and gives it exactly. One entropy-plus-energy functional gives the optimal rate of deterministic work, over many uses at vanishing error, for a broad class of schedules of arrivals, releases and loans, and for devices that give back what they borrow, with its energy and entropy. At a fixed state, the price of releasing is the price of correlations whose partners have left.</p><p>Together with results of the companion papers, the law settles three questions. Does answering promptly cost more? For memoryless channels, only if they are quantum. Can one decide whether a channel is free? Yes when outputs may be held, and no when they must be released. What does keeping time cost? A clock that must come back supplies phase but no net energy, so in batch, thermal operations with a returned clock do not reach the capacity of every channel, and a process can cost more than its time reverse. The price is testable: a two-qubit process that is free when held costs at least 0.87 kT ln 2 per episode at 1% error when its first output must leave early and the controller and battery budgets total at most 0.025 (energies in kT ln 2, entropies in bits); certifying the budgets is the remaining step.</p><p>The letter summarizes four papers, which give the full proofs and carry the machine checks: <em>The price of time order</em> (<a href=\"https://doi.org/10.5281/zenodo.23310622\">doi:10.5281/zenodo.23310622</a>); <em>Only quantum channels save work by waiting</em> (<a href=\"https://doi.org/10.5281/zenodo.23310624\">doi:10.5281/zenodo.23310624</a>); <em>The work cost of answering in real time</em> (<a href=\"https://doi.org/10.5281/zenodo.23310628\">doi:10.5281/zenodo.23310628</a>); <em>The price of keeping time</em> (<a href=\"https://doi.org/10.5281/zenodo.23310632\">doi:10.5281/zenodo.23310632</a>). This record archives the letter, its TeX source and its build script. How the work was done, including the use of AI models, is described in the letter.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "quantum thermodynamics",
+    "time order",
+    "Landauer principle",
+    "thermodynamic capacity",
+    "quantum channels",
+    "quantum clocks"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23310622",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23310624",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23310628",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23310632",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "CC BY 4.0 applies to the letter, its TeX source and the documentation; the build script is additionally available under the MIT License. RIGHTS.md specifies the scopes."
+}
